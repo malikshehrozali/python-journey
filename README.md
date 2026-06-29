@@ -154,7 +154,7 @@ These notebooks are written as **learning notes, not tutorials**. That means:
 
 ## 👤 About
 
-**Malik** · Full-Stack Developer & DevOps Practitioner  
+**Malik** · Full-Stack Developer & AI/ML Engineer
 Currently expanding into data engineering and MLOps.
 
 [![GitHub](https://img.shields.io/badge/GitHub-@malikshehrozali?style=flat&logo=github)](https://github.com/malikshehrozali)
